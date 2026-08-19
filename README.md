@@ -1,5 +1,6 @@
 # devops-bootcamp-shipit
 
+q
 **"Ship It: Mission Control"** — a live CI/CD teaching prop for the 2026 DevOps bootcamp.
 
 Every learner ships a small personal **ship microsite** through a GitHub Actions pipeline. Each
